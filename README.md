@@ -33,4 +33,8 @@ THEN I should have a registered service worker using workbox
 WHEN I register a service worker  
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets  
 WHEN I deploy to Heroku  
+<<<<<<< HEAD
 THEN I should have proper build scripts for a webpack application 
+=======
+THEN I should have proper build scripts for a webpack application  
+>>>>>>> e04a2e8e97124ba31ef098a90b1c43f3f6a27342
